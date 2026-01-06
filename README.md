@@ -1,2 +1,2 @@
-# V-ng-CNTT2
+# Vuong-CNTT2
 BaiTap2
